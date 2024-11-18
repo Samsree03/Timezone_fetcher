@@ -1,5 +1,7 @@
 # City Time Fetcher Dashboard
 
+Check out the Loom video here: [Walkthrough of the project](https://drive.google.com/file/d/1cUFL92Vo3Pstwn8RnmsDtB0KdX5FMvIN/view?usp=sharing)
+
 ## Project Description
 The City Time Fetcher Dashboard is an interactive Streamlit-based application that allows users to:
 1. Upload a CSV file containing timezones (e.g., `Europe/London`, `Asia/Singapore`).

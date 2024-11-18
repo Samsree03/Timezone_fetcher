@@ -2,7 +2,7 @@
 
 ## Project Description
 The City Time Fetcher Dashboard is an interactive Streamlit-based application that allows users to:
-1. Upload a CSV file containing timezones (e.g., `Europe/London`, `Asia/Kolkata`).
+1. Upload a CSV file containing timezones (e.g., `Europe/London`, `Asia/Singapore`).
 2. Fetch the current date and time for each timezone using the API Ninjas World Time API.
 3. Export the updated CSV file with separate columns for the date and time.
 

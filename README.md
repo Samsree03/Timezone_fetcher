@@ -19,7 +19,7 @@ This tool is ideal for organizations working across multiple time zones and simp
 ### Installation Steps
 1. Install streamlit, pandas, requests, datetime and pytz libraries using command prompt.
 2. Create an account in Ninjas API and get the API Key.
-3. Modify and run the python file, task_dashboard
+3. Modify and run the python file, task_dashboard.py
    
 ## Usage Guide
 
